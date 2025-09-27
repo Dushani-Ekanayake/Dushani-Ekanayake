@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dushani-ekanayake" alt="dushani-ekanayake" /></a> </p>
 
-- 🔭 I’m currently working on **AI Generative Quiz Platform**
+
 
 - 🌱 I’m currently learning **React, Bootstrap, React Native**
 
