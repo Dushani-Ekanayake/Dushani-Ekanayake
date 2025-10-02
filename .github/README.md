@@ -58,3 +58,28 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 ###
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dushani-ekanayake&show_icons=true&locale=en&theme=dark" alt="Dushani Ekanayake GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushani-ekanayake&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dushani Ekanayake Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushani-ekanayake&theme=dark" alt="Dushani Ekanayake GitHub Streak" />
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dushani-ekanayake&theme=dark" alt="Dushani Ekanayake GitHub Trophies" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20views&color=4CAF50&style=flat" alt="dushani-ekanayake" />
+</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
