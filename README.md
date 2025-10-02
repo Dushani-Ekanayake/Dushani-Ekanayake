@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzjrwpXScW4B/giphy.gif" width="50px"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwxazlqY2xhYXF6c3F2bTcwdnl2ZTJnemI5czE0bTdid294YzR5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="50px"/> 
   Hello! I'm Dushani Ekanayake
 </h1>
 <h3 align="center">Passionate Computer Science Undergraduate | Exploring AI, Web, and Everything in Between</h3>
