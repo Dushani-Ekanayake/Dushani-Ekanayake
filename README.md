@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-1347605aa3e3.gif" alt="Developer Illustration" width="200" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJnYW16MGx5dTAyc2NkZzRkbGRtNmdtc3FiMmR5N3d2ZTc0azE2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="Developer Illustration" width="200" />
     </td>
   </tr>
 </table>
@@ -29,13 +29,14 @@
 ---
 
 ## 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/dushani ekanayake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dushani Ekanayake LinkedIn" height="30" width="40" />
   </a>
   <a href="https://dushaniekanayake.medium.com" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=medium" alt="Dushani Ekanayake Medium" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" alt="Dushani Ekanayake Medium" height="30" width="40" />
   </a>
   <a href="mailto:kaviiekanayake2@gmail.com" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=mail" alt="Email" height="30" width="40" />
