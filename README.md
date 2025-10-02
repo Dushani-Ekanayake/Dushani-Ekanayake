@@ -56,6 +56,42 @@ const profile = {
 🚀 Tech Leadership & Event Organizing – leading teams in inter-university datathons and fostering collaboration.
 🌱 Continuous Learning – always curious about emerging technologies like cloud computing, blockchain, and automation.
 
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Dushani-Ekanayake/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dushani-Ekanayake&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dushani-Ekanayake&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushani-Ekanayake&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=dark&hide_border=false" />
+</div>
+
 ## 💻 Tech Stack
 
 ```json
@@ -115,5 +151,6 @@ console.log("Let's connect and collaborate on exciting projects!");
 
 process.exit(0); // Until next time 👋
 ```
+
 
 
