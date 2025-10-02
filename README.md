@@ -82,6 +82,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20views&color=4CAF50&style=flat" alt="dushani-ekanayake" />
 </p>
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
