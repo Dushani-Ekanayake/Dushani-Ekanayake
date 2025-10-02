@@ -83,3 +83,8 @@
   <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20views&color=4CAF50&style=flat" alt="dushani-ekanayake" />
 </p>
 
+### 🕹️ My GitHub Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dushani-Ekanayake/Dushani-Ekanayake/output/github-snake-dark.gif" alt="GitHub Snake" style="max-width: 100%;">
+</p>
