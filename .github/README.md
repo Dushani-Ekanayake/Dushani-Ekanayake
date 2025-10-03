@@ -15,7 +15,7 @@
         <li>🔭 I’m currently focused on AI/Machine Learning and Full-Stack Web Development.</li>
         <li>🌱 I'm actively leveling up my skills in React, Bootstrap, and React Native.</li>
         <li>🎓 I'm currently pursuing a degree in Computer Science.</li>
-        <li>⚡ I have experience with a variety of languages including **Python, Java, and C#.</li>
+        <li>⚡ I have experience with a variety of languages including Python, Java, and C#.</li>
         <li>✍️ I regularly write articles on <a href="https://dushaniekanayake.medium.com" target="_blank">dushaniekanayake.medium.com</a>.</li>
         <li>📫 How to reach me: <strong><a href="mailto:kaviiekanayake2@gmail.com">kaviiekanayake2@gmail.com</a></strong></li>
       </ul>
@@ -57,7 +57,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-###
   
 ###
 
