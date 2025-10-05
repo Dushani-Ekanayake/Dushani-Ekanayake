@@ -7,9 +7,6 @@
 ---
 
 ## 💡 About Me
----
-
-## 💡 About Me
 
 <table width="100%">
   <tr>
