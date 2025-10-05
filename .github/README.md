@@ -32,16 +32,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dushani ekanayake" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dushani Ekanayake LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Dushani Ekanayake LinkedIn" height="30" width="40" />
   </a>
   <a href="https://dushaniekanayake.medium.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" alt="Dushani Ekanayake Medium" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=medium" alt="Dushani Ekanayake Medium" height="30" width="40" />
   </a>
   <a href="mailto:kaviiekanayake2@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=mail" alt="Email" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 ## 💻 Languages and Tools
@@ -65,7 +64,7 @@
   
   <img src="https://github-readme-streak-stats.vercel.app/?user=dushani-ekanayake&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Dushani Ekanayake GitHub Streak" />
   
-  <br/>
+  </div>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dushani-ekanayake&theme=dark" alt="Dushani Ekanayake GitHub Trophies" />
@@ -74,15 +73,12 @@
 
 ---
 
-## ⭐ Developer Activity & View Counter
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20Views&color=4CAF50&style=flat" alt="dushani-ekanayake profile views" />
   
   <br/>
-  
-  <img src="https://raw.githubusercontent.com/Dushani-Ekanayake/Dushani-Ekanayake/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" style="max-width: 100%;">
-</div>
 
 ---
 
