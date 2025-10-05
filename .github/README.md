@@ -12,10 +12,10 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 I'm currently focused on **AI/Machine Learning** and **Full-Stack Web Development**.</li>
-        <li>🌱 I'm actively leveling up my skills in **React**, **Bootstrap**, and **React Native**.</li>
-        <li>🎓 I'm currently pursuing a degree in **Computer Science**.</li>
-        <li>⚡ I have experience with a variety of languages including **Python**, **Java**, and **C#**.</li>
+        <li>🔭 I'm currently focused on AI/Machine Learning and Full-Stack Web Development.</li>
+        <li>🌱 I'm actively leveling up my skills in React, Bootstrap, and React Native.</li>
+        <li>🎓 I'm currently pursuing a degree in Computer Science.</li>
+        <li>⚡ I have experience with a variety of languages including Python, Java, and C#.</li>
         <li>✍️ I regularly write articles on <a href="https://dushaniekanayake.medium.com" target="_blank">dushaniekanayake.medium.com</a>.</li>
         <li>📫 How to reach me: <strong><a href="mailto:kaviiekanayake2@gmail.com">kaviiekanayake2@gmail.com</a></strong></li>
       </ul>
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap,js,python,java,csharp,c,html,css" alt="Programming Languages and Tools" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats & Activity
 
