@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=mail" alt="Email" height="30" width="40" />
   </a>
 </p>
----
+
 
 ## 💻 Languages and Tools
 
