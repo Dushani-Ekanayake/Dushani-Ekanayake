@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Green and Black Modern Gamer YouTube Banner.jpg" alt="Dushani Ekanayake's GitHub Banner" width="100%"/>
+  <img src="https://github.com/Dushani-Ekanayake/Dushani-Ekanayake/blob/c2e4e745686f2ba12748faf369fdafa9ae67f280/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png" alt="Dushani Ekanayake's GitHub Banner" width="100%"/>
   <h1>Hello! I'm Dushani Ekanayake 👋</h1>
   <h3>Passionate Computer Science Undergraduate | Exploring AI, Web, and Everything in Between</h3>
 </div>
