@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk3MGM2NmZoMjJ2azZkMm91eDJodmVsaTQ2MWloZWswczh0YmZ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="70px"/>
+  <img src="Green and Black Modern Gamer YouTube Banner.jpg" alt="Dushani Ekanayake's GitHub Banner" width="100%"/>
   <h1>Hello! I'm Dushani Ekanayake 👋</h1>
   <h3>Passionate Computer Science Undergraduate | Exploring AI, Web, and Everything in Between</h3>
 </div>
 
+---
+
+## 💡 About Me
 ---
 
 ## 💡 About Me
