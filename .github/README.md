@@ -31,7 +31,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dushani ekanayake" target="blank">
+  <a href="https://linkedin.com/in/dushani-ekanayake" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Dushani Ekanayake LinkedIn" height="30" width="40" />
   </a>
   <a href="https://dushaniekanayake.medium.com" target="blank">
@@ -62,19 +62,21 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dushani-ekanayake&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Dushani Ekanayake GitHub Streak" />
-  
-  </div>
-  
+  <!-- Primary streak badge (most popular provider) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushani-ekanayake&theme=dark" alt="Dushani's GitHub Streak" />
+
+  <!-- Fallback streak badge (alternate provider) -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=dushani-ekanayake&theme=dark" alt="Dushani's GitHub Streak (fallback)" />
+
+  <br/>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dushani-ekanayake&theme=dark" alt="Dushani Ekanayake GitHub Trophies" />
   </a>
 </div>
-
+  
 ---
-
-
-
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20Views&color=4CAF50&style=flat" alt="dushani-ekanayake profile views" />
   
