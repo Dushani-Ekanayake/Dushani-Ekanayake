@@ -63,11 +63,9 @@
   <br/>
   
   <!-- Primary streak badge (most popular provider) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushani-ekanayake&theme=dark" alt="Dushani's GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=dark" alt="Dushani's GitHub Streak"/>
 
-  <!-- Fallback streak badge (alternate provider) -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=dushani-ekanayake&theme=dark" alt="Dushani's GitHub Streak (fallback)" />
-
+ 
   <br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
