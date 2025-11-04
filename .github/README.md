@@ -62,8 +62,11 @@
   
   <br/>
   
-  <!-- Primary streak badge (most popular provider) -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=dark" alt="Dushani's GitHub Streak"/>
+  <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=dark" />
+
+<!-- Fallback -->
+<img src="https://github-readme-streak-stats.vercel.app/?user=Dushani-Ekanayake&theme=dark" />
 
  
   <br/>
