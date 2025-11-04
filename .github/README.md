@@ -61,12 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushani-ekanayake&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dushani Ekanayake Top Languages" />
   
   <br/>
-  
-  <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=dark" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=dushani-ekanayake&theme=dark" />
 
-<!-- Fallback -->
-<img src="https://github-readme-streak-stats.vercel.app/?user=Dushani-Ekanayake&theme=dark" />
 
  
   <br/>
