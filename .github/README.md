@@ -1,7 +1,7 @@
  <div align="center">
 <!-- ⚠️ Important: Replace 'Dushani-Ekanayake' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Dushani-Ekanayake/count.svg" />
+  <img src="https://profile-counter.glitch.me/dushani-ekanayake/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
