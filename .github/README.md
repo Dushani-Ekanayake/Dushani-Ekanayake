@@ -44,8 +44,7 @@
 
 <div align="center">
 
-<!-- Option A: Light background (use when you want white background badges) -->
-<img src="https://github-readme-stats.vercel.app/api?username=dushani-ekanayake&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" width="420" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushani-ekanayake&layout=compact&theme=default&hide_border=true" alt="Top languages" width="360" />
 
