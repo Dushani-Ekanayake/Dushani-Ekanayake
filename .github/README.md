@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Dushani-Ekanayake/Dushani-Ekanayake/blob/c2e4e745686f2ba12748faf369fdafa9ae67f280/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png" alt="Dushani Ekanayake's GitHub Banner" width="100%"/>
+  <img src="https://github.com/Dushani-Ekanayake/Dushani-Ekanayake/blob/c2e4e745686f2ba12748faf369fdafa9ae67f280/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png" alt="Dushani Ekanayake Banner" width="100%" />
+
   <h1>Hello! I'm Dushani Ekanayake 👋</h1>
   <h3>Passionate Computer Science Undergraduate | Exploring AI, Web, and Everything in Between</h3>
 </div>
@@ -8,20 +9,21 @@
 
 ## 💡 About Me
 
-<table width="100%">
+<table>
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 I'm currently focused on AI/Machine Learning and Full-Stack Web Development.</li>
-        <li>🌱 I'm actively leveling up my skills in React, Bootstrap, and React Native.</li>
-        <li>🎓 I'm currently pursuing a degree in Computer Science.</li>
-        <li>⚡ I have experience with a variety of languages including Python, Java, and C#.</li>
-        <li>✍️ I regularly write articles on <a href="https://dushaniekanayake.medium.com" target="_blank">dushaniekanayake.medium.com</a>.</li>
-        <li>📫 How to reach me: <strong><a href="mailto:kaviiekanayake2@gmail.com">kaviiekanayake2@gmail.com</a></strong></li>
+        <li>🔭 Currently focused on AI/Machine Learning and Full-Stack Web Development.</li>
+        <li>🌱 Improving skills in React, Bootstrap, and React Native.</li>
+        <li>🎓 Pursuing a Bachelor's degree in Computer Science.</li>
+        <li>⚡ Skilled in Python, Java, and C#.</li>
+        <li>✍️ Writing articles on <a href="https://dushaniekanayake.medium.com">Medium</a>.</li>
+        <li>📫 Reach me at: <strong><a href="mailto:kaviiekanayake2@gmail.com">kaviiekanayake2@gmail.com</a></strong></li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGw4ZnVjaXVnN3JvcXY2ejlsZDRqM2V6OGNtMWk5ZWVlaG4zNGdvYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" alt="Developer Illustration" width="100%" />
+
+   <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%" alt="Developer Illustration">
     </td>
   </tr>
 </table>
@@ -31,56 +33,36 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dushani-ekanayake" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Dushani Ekanayake LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/dushani-ekanayake">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://dushaniekanayake.medium.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=medium" alt="Dushani Ekanayake Medium" height="30" width="40" />
+  <a href="https://dushaniekanayake.medium.com">
+    <img src="https://skillicons.dev/icons?i=medium" width="40" alt="Medium" />
   </a>
-  <a href="mailto:kaviiekanayake2@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=mail" alt="Email" height="30" width="40" />
+  <a href="mailto:kaviiekanayake2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=mail" width="40" alt="Email" />
   </a>
 </p>
 
+---
 
-## 💻 Languages and Tools
+## 💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap,js,python,java,csharp,c,html,css" alt="Programming Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap,js,python,java,csharp,c,html,css" />
 </p>
 
-
-
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushani-ekanayake&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="Dushani Ekanayake GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushani-ekanayake&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dushani Ekanayake Top Languages" />
-  
-  <br/>
-
-
-
- 
-  <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dushani-ekanayake&theme=dark" alt="Dushani Ekanayake GitHub Trophies" />
-  </a>
-</div>
-  
----
-  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dushani-ekanayake&label=Profile%20Views&color=4CAF50&style=flat" alt="dushani-ekanayake profile views" />
-  
-  <br/>
-
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <p>🚀 Stay tuned for more projects and articles!</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dushani-ekanayake&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushani-ekanayake&layout=compact&theme=dark" alt="Top Languages" />
+
 </div>
+
