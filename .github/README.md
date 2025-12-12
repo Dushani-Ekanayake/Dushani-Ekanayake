@@ -48,10 +48,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushani-Ekanayake&layout=compact&theme=default&hide_border=true" alt="Top languages" width="360" />
 
-<!-- Option B: Dark background (uncomment if you prefer a dark-style card)
+
 <img src="https://github-readme-stats.vercel.app/api?username=dushani-ekanayake&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="420" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushani-ekanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="360" />
--->
 
 </div>
 
