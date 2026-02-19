@@ -1,37 +1,130 @@
-<h1>Hi 👋, I'm Dushani Ekanayake</h1>
-<p>A passionate Computer Science undergraduate exploring the fascinating realms of AI, web development, and everything in between. Welcome to my GitHub profile!</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ dushani-ekanayake" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedhttps://medium.com/@dushaniekanayake" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dushani-Ekanayake&show_icons=true&locale=en" alt="Dushani-Ekanayake" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dushani-Ekanayake&show_icons=true&locale=en&layout=compact" alt="Dushani-Ekanayake" /></p>
+<div align="center">
 
+```
+██████╗ ██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗
+██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗████╗  ██║██║
+██║  ██║██║   ██║███████╗███████║███████║██╔██╗ ██║██║
+██║  ██║██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║██║
+██████╔╝╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║██║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%5B*%5D+Initializing+secure+connection...;%5B*%5D+Identity%3A+Dushani+Ekanayake;%5B*%5D+Role%3A+Cybersecurity+Enthusiast;%5B*%5D+Status%3A+Hunting+vulnerabilities...;%5B*%5D+Access+Granted+%E2%9C%94" alt="Typing SVG" />
+
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ whoami
+```
+
+> **Dushani Ekanayake** — Cybersecurity Researcher | Ethical Hacker | CTF Player  
+> _"In a world full of vulnerabilities, I find the patch."_
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ cat /etc/profile.d/skills.conf
+```
+
+<div align="center">
+
+| Domain | Tools & Technologies |
+|--------|---------------------|
+| 🔐 **Penetration Testing** | Kali Linux · Metasploit · Burp Suite · Nmap |
+| 🌐 **Web Security** | OWASP Top 10 · SQLi · XSS · CSRF |
+| 🔍 **OSINT & Recon** | Shodan · Maltego · theHarvester |
+| 🛡️ **Blue Team** | Wireshark · Snort · SIEM · Log Analysis |
+| 💻 **Scripting** | Python · Bash · PowerShell |
+| 🧩 **CTF** | TryHackMe · HackTheBox · PicoCTF |
+
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ nmap --stats
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dushani-Ekanayake&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushani-Ekanayake&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ cat /var/log/activity_streak.log
+```
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dushani-Ekanayake&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ ls -la /tools/arsenal/
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
+
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ ping -c 3 social.links
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dushani--Ekanayake-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/Dushani-Ekanayake)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Connect-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)](https://tryhackme.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com)
+
+</div>
+
+---
+
+```bash
+┌──(dushani㉿kali)-[~]
+└─$ cat /etc/motd
+```
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "The quieter you become, the more you can hear."   ║
+║                          — Kali Linux motto          ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dushani-Ekanayake&color=00ff41&style=flat-square&label=PROFILE+HITS)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Secured with ❤️ by Dushani Ekanayake | EOF</sub>
+</div>
