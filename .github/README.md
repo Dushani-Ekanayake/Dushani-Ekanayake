@@ -25,24 +25,6 @@
 
 ---
 
-```bash
-┌──(dushani㉿kali)-[~]
-└─$ cat /etc/profile.d/skills.conf
-```
-
-<div align="center">
-
-| Domain | Tools & Technologies |
-|--------|---------------------|
-| 🔐 **Penetration Testing** | Kali Linux · Metasploit · Burp Suite · Nmap |
-| 🌐 **Web Security** | OWASP Top 10 · SQLi · XSS · CSRF |
-| 🔍 **OSINT & Recon** | Shodan · Maltego · theHarvester |
-| 🛡️ **Blue Team** | Wireshark · Snort · SIEM · Log Analysis |
-| 💻 **Scripting** | Python · Bash · PowerShell |
-| 🧩 **CTF** | TryHackMe · HackTheBox · PicoCTF |
-
-</div>
-
 ---
 
 ```bash
