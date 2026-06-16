@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Hi there 👋 I'm Dushani Ekanayake
+Hi there 👋 I'm Dushani Ekanayake
 - 🎓 Computer Science Undergraduate
 - 💻 Passionate about Full Stack Development, AI, and Mobile App Development
 - 🚀 Currently building projects using React, Node.js, Express.js, Firebase, Java, and Cybersecurity
@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
 </p>
-
+```
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
