@@ -50,7 +50,7 @@ Hi there 👋 I'm Dushani Ekanayake
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
 </p>
-```
+
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
