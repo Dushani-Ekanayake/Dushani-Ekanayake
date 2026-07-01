@@ -15,6 +15,15 @@ Hi there 👋 I'm Dushani Ekanayake
 - 🚀 Currently building projects using React, Node.js, Express.js, Firebase, Java, and Cybersecurity
 - 🌱 Exploring AI-powered applications, backend systems, and modern web technologies
 
+<p align="center">
+  <a href="https://dushani-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Website"/>
+  </a>&nbsp;
+  <a href="Dushani_Ekanayake_Resume_f.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-FF00FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="View Resume"/>
+  </a>
+</p>
+
 
 ## 🧠 My Focus Areas
 - Building portfolio projects for internships
@@ -116,5 +125,4 @@ Hi there 👋 I'm Dushani Ekanayake
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
