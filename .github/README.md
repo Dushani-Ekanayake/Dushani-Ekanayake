@@ -19,7 +19,7 @@ Hi there 👋 I'm Dushani Ekanayake
   <a href="https://dushani-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Website"/>
   </a>&nbsp;
-  <a href="Dushani_Ekanayake_Resume .pdf" target="_blank">
+  <a href="Dushani_Ekanayake_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FF00FF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="View Resume"/>
   </a>
 </p>
